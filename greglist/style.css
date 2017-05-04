@@ -1,0 +1,61 @@
+body{
+    font-size: xx-large
+}
+nav {
+    position: relative;
+    top: 0;
+    background-color: rgb(200,200,200);
+    width: 99.2%;
+    text-align: right;
+    font-size:x-large;
+    margin-bottom: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.link{
+    display: inline-block;
+    
+}
+.brand{
+    position: absolute;
+    left: 5px;
+}
+.search {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding: 10px;
+}
+form img {
+    height: 30px;
+    
+}
+form input{
+    height: 30px; 
+}
+.pagination {
+    text-align: center;
+   
+}
+.pagination button{
+    height: 50px;
+    border-radius: 20%;
+    background-color: white;
+}
+.results {
+    text-align:  center;
+}
+.Role {
+    color: blue;
+}
+div span {
+    display:  inline-block;
+    padding: 0 5px 0 5px;
+}
+.results {
+    margin-top: 25px;
+}
